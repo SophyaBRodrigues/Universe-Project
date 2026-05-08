@@ -1,2 +1,15 @@
+body {
+    background-image: url(../assets/mountains-universe-1.png);
+    background-position: center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+  height: 100vh;
+}
 
+h1 {
+    color: white;
+}
 
+a {
+    text-decoration: none;
+}
