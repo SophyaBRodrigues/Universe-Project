@@ -29,11 +29,44 @@ header {
             text-decoration: none;
             font-size: 22px;
             color: #C4C4CC
+
+           
+        }
+
+        .ativa {
+           color: whitesmoke;    
+           font-weight: bold; 
         }
     }
 }
 
-h1 {
-    color: white;
+main {
+    margin-top: 200px;
+    width: fit-content;
+    margin-inline: auto;
+
+    h1 {
+        color: #e1e1e6;
+        font-size: 48px;
+        line-height: 125%;
+        margin-bottom: 24px;
+    }
+
+    a {
+        color: #FFF;
+        border: 2px solid #FFF;
+        display: block;
+        margin-inline: auto;
+        width: fit-content;
+        border-radius: 5px;
+        padding: 12px 32px;
+        text-decoration: none;
+        font-weight: 700px;
+        font-size: 14px;
+        line-height: 24px;
+        text-transform: uppercase;
+    }
 }
+
+
 
