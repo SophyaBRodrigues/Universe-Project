@@ -54,6 +54,7 @@ main {
 
     a {
         color: #FFF;
+        
         border: 2px solid #FFF;
         display: block;
         margin-inline: auto;
